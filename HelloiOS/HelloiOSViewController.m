@@ -3,7 +3,7 @@
 //  HelloiOS
 //
 //  Created by dj on 11/28/13.
-//  Copyright (c) 2013 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2013 davejagoda.com. All rights reserved.
 //
 
 #import "HelloiOSViewController.h"
