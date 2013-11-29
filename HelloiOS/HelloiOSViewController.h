@@ -9,5 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface HelloiOSViewController : UIViewController
+{
+    NSString *name;
+    IBOutlet UILabel *nameField;    
+}
+
+- (IBAction)greet:(id)sender;
 
 @end
