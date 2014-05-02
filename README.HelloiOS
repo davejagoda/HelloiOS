@@ -1,0 +1,22 @@
+New->New Project
+iOS Application->Single View Application
+
+Product Name: HelloiOS
+Company Identifier: com.davejagoda
+Class Prefix: HelloiOS
+Device Family: iPhone
+Unchecked: Use Storyboard, Include Unit Tests
+Checked: Use Automatic Reference Counting
+
+Click "Next"
+
+Save in ~/Source/Github
+
+check Create local git repository
+
+1) figure out about the git remote weirdness naming vs ~/tmp
+
+2) actually make it say "Hello iOS"
+
+3) create a .gitignore file and check it in:
+https://github.com/github/gitignore/blob/master/Objective-C.gitignore
